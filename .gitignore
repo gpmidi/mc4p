@@ -7,5 +7,5 @@ build
 dist
 *.egg-info
 .project
-.pyproject
+.pydevproject
 .settings
