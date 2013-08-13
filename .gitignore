@@ -6,3 +6,6 @@ jar
 build
 dist
 *.egg-info
+.project
+.pyproject
+.settings
